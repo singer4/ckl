@@ -633,6 +633,18 @@ http://pr.19760929.xyz:9688/udp/239.77.0.164:5146
 http://idc.zymok.cn:10000/udp/239.77.0.164:5146
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://www.yahao.host:4022/udp/239.77.0.164:5146
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
+http://114.250.22.176:8188/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
+http://223.72.123.57:85/tsfile/live/1026_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
+http://1.31.14.70:54321/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
+http://114.254.33.163:18888/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
+http://39.77.27.246:4002/rtp/239.253.254.66:8000
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
+http://58.48.104.30:4022/rtp/239.69.1.193:10800
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="🪁动画频道",优漫卡通
 https://www.freetv.top/migu/626064703.m3u8?migutoken=7f7c4b909389a0cd5172701768041a0f3887534c4534a68bf1dc85550389e9ab156655484be16e89604513fde9da2f036ebae28d31515b0be32eb12462f5de9d9cab8f00c44671241d5c6e1356
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东少儿.png" group-title="🪁动画频道",广东少儿
@@ -697,6 +709,10 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 http://www.douzhicloud.site:35455/huya/11601966
 #EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/七龙珠.png" group-title="🪁动画频道",七龙珠
 https://live.ottiptv.cc/huya/11601966
+#EXTINF:-1 tvg-name="神奇宝贝" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/神奇宝贝.png" group-title="🪁动画频道",神奇宝贝
+https://t.freetv.fun/live/shen-qi-bao-bei.php
+#EXTINF:-1 tvg-name="神奇宝贝" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/神奇宝贝.png" group-title="🪁动画频道",神奇宝贝
+http://live.nctv.top/huya.php?id=21241784
 #EXTINF:-1 tvg-name="火影忍者" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/火影忍者.png" group-title="🪁动画频道",火影忍者
 http://cdn.jdshipin.com:8880/huya.php?id=29465866
 #EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/海绵宝宝.png" group-title="🪁动画频道",海绵宝宝
@@ -1253,6 +1269,7 @@ http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-27 09:58:29
 http://171.38.107.34:8282/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+
 
 
 
