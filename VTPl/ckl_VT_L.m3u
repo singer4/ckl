@@ -356,8 +356,6 @@ http://202.105.239.77:8188/rtp/239.253.43.114:5146
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
 http://idc.zymok.cn:10000/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
-http://183.7.150.205:4000/udp/239.253.43.70:5146
-#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
 http://lbyjlt.vv5678.cn:8880/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
 http://202.105.239.77:8188/rtp/239.253.43.70:5146
@@ -367,8 +365,6 @@ http://www.yahao.host:4022/udp/239.253.43.70:5146
 http://pr.19760929.xyz:9688/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
 http://idc.zymok.cn:10000/udp/239.253.43.75:5146
-#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
-http://183.7.150.205:4000/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
 http://lbyjlt.vv5678.cn:8880/rtp/239.253.43.75:5146
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
@@ -1249,3 +1245,4 @@ http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-27 09:58:29
 http://171.38.107.34:8282/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+
