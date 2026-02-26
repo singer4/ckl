@@ -358,7 +358,7 @@ https://migu.188766.xyz/?migutoken=933375f10f59db6fe40d9315edf498e2&id=CETV2&typ
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="﻿📺央视频道",CETV-4
 http://183.51.190.224:6633/rtp/239.253.43.114:5146
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
-http://183.51.190.224:6633/rtp/239.253.43.70:5146
+http://lbyjlt.vv5678.cn:8880/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
 http://pr.19760929.xyz:9688/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
@@ -366,11 +366,11 @@ http://idc.zymok.cn:10000/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
 http://www.yahao.host:4022/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
-http://183.51.190.224:6633/rtp/239.253.43.75:5146
+http://183.237.240.235:808/hls/55/index.m3u8
+#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
+http://lbyjlt.vv5678.cn:8880/rtp/239.253.43.75:5146
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
 http://pr.19760929.xyz:9688/rtp/239.253.43.75:5146
-#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
-http://183.237.240.235:808/hls/55/index.m3u8
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
 http://idc.zymok.cn:10000/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
@@ -1378,4 +1378,5 @@ http://hmfs.f3322.net:3388/hls/29/index.m3u8
 http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-29 23:03:33
 http://183.51.190.224:6633/rtp/239.77.0.86:5146
+
 
