@@ -376,7 +376,7 @@ http://113.102.83.19:4022/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
 http://idc.zymok.cn:10000/rtp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
-http://113.95.132.166:30001/udp/239.253.43.70:5146
+http://119.134.224.97:4050/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="☘️广东频道",潮州综合
 http://202.105.239.77:8188/rtp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
@@ -386,7 +386,7 @@ http://14.118.74.55:10001/rtp/239.253.43.75:5146
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
 http://113.102.83.19:4022/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
-http://113.95.132.166:30001/udp/239.253.43.75:5146
+http://119.134.224.97:4050/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
 http://idc.zymok.cn:10000/rtp/239.253.43.75:5146
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州民生.png" group-title="☘️广东频道",潮州民生
@@ -398,7 +398,7 @@ http://113.102.83.19:4022/udp/239.253.43.45:5146
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="☘️广东频道",汕头综合
 http://14.118.74.55:10001/rtp/239.253.43.45:5146
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="☘️广东频道",汕头综合
-http://113.95.132.166:30001/udp/239.253.43.45:5146
+http://119.134.224.97:4050/udp/239.253.43.45:5146
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="☘️广东频道",汕头综合
 http://idc.zymok.cn:10000/rtp/239.253.43.45:5146
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="☘️广东频道",汕头综合
@@ -410,7 +410,7 @@ http://113.102.83.19:4022/udp/239.253.43.46:5146
 #EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头经济.png" group-title="☘️广东频道",汕头经济
 http://14.118.74.55:10001/rtp/239.253.43.46:5146
 #EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头经济.png" group-title="☘️广东频道",汕头经济
-http://113.95.132.166:30001/udp/239.253.43.46:5146
+http://119.134.224.97:4050/udp/239.253.43.46:5146
 #EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头经济.png" group-title="☘️广东频道",汕头经济
 http://idc.zymok.cn:10000/rtp/239.253.43.46:5146
 #EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头经济.png" group-title="☘️广东频道",汕头经济
@@ -610,7 +610,7 @@ http://14.118.74.55:10001/rtp/239.77.0.145:5146
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://115.150.63.77:9902/tsfile/live/0001_42.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
-http://113.95.132.166:30001/udp/239.77.0.145:5146
+http://119.134.224.97:4050/udp/239.77.0.145:5146
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://113.102.83.19:4022/udp/239.77.0.145:5146
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
