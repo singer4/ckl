@@ -12,7 +12,7 @@ http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="﻿📺央视频道",CCTV-1
 http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="﻿📺央视频道",CCTV-1
-http://110.72.103.254:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://1.28.111.190:9901/tsfile/live/1024_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="﻿📺央视频道",CCTV-1
 http://113.110.77.235:8188/rtp/239.77.0.86:5146
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="﻿📺央视频道",CCTV-1
@@ -32,7 +32,7 @@ http://116.77.33.98:44330/tsfile/live/0002_1.m3u8?key=txiptv&amp;playlive=0&amp;
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="﻿📺央视频道",CCTV-2
 http://119.166.53.110:85/tsfile/live/0002_3.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="﻿📺央视频道",CCTV-2
-http://110.72.103.254:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://1.28.111.190:9901/tsfile/live/1023_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="﻿📺央视频道",CCTV-2
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="﻿📺央视频道",CCTV-2
