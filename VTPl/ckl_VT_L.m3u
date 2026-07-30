@@ -230,11 +230,11 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="﻿📺央视频道",CCTV-12
 http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="﻿📺央视频道",CCTV-13
-http://192.151.150.154/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="﻿📺央视频道",CCTV-13
 http://112.89.33.7:80/PLTV/88888973/224/3221226669/10000100000000060000000002070290_0.smil/01.m3u8?fmt=ts2hls,1706,01.m3u8,0,8599,0,0&accountinfo=7P9%2FPZjGeZIv%2BPttGdhw9aLgJpKIv%2FfR1xq%2BFuBVUycvxL%2Fon6o2bDkwc5RzubqDYrSpzTJnzcxI%2FM2BWbtXAPtfJ%2Be5cuPukUHUQrsTrlmMAcBkbs8LL691ccJjISEL%2CEND&GuardEncType=2&tenantId=8601
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="﻿📺央视频道",CCTV-13
 http://112.89.45.24:80/PLTV/88888973/224/3221225751/10000100000000060000000000334589_0.smil/01.m3u8?fmt=ts2hls,744,01.m3u8,0,2675,0,0&accountinfo=7P9/PZjGeZIv+PttGdhw9SUy2v3weVxkOFl4CStfwsnkh3kcFCJXwqkgcXGDUDPqHDDIdHZCIhQXUzwijKnSegWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj:20250930114110,END&GuardEncType=2&tenantId=8601
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="﻿📺央视频道",CCTV-13
+http://192.151.150.154/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="﻿📺央视频道",CCTV-13
 http://113.77.25.80:8188/rtp/239.77.0.188:5146
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="﻿📺央视频道",CCTV-13
@@ -266,11 +266,11 @@ http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="﻿📺央视频道",CCTV-14
 http://123.130.84.106:8154/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="﻿📺央视频道",CCTV-15
-http://192.151.150.154/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="﻿📺央视频道",CCTV-15
 http://112.89.45.22:80/PLTV/88888973/224/3221226647/10000100000000060000000002070293_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8,0,8595,0,0&accountinfo=26iThfOUESj7KWSP%2BCf6P2%2FtQdrks7k%2BU%2FtzcxyJZWgMEnLaDYqry%2BJuUyT8Fc8378%2B2So0%2BtKyNGsQXAkOtcbsU6KazgFvxqBhk4q2PxHvyeajLnsVEKjVqdEYhmZl8%2CEND&GuardEncType=2&tenantId=8601
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="﻿📺央视频道",CCTV-15
 http://112.89.45.21:80/PLTV/88888973/224/3221225756/10000100000000060000000000334620_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8,0,2675,0,0&accountinfo=26iThfOUESj7KWSP%2BCf6P2%2FtQdrks7k%2BU%2FtzcxyJZWh899xQ5UcWhd3FMVhE1wHOliuv0aY3ylqt%2BcCC1L%2BXF7sU6KazgFvxqBhk4q2PxHvyeajLnsVEKjVqdEYhmZl8%2CEND&GuardEncType=2&tenantId=8601
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="﻿📺央视频道",CCTV-15
+http://192.151.150.154/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="﻿📺央视频道",CCTV-15
 http://113.77.25.80:8188/rtp/239.77.1.239:5146
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="﻿📺央视频道",CCTV-15
