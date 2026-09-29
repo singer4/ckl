@@ -346,11 +346,15 @@ http://112.89.38.2:80/PLTV/88888973/224/3221226675/10000100000000060000000002070
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="﻿📺央视频道",CETV-1
 http://113.77.25.80:8188/rtp/239.77.0.200:5146
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="﻿📺央视频道",CETV-1
+http://223.8.181.85:8066/rtp/239.1.1.65:8065
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="﻿📺央视频道",CETV-1
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="﻿📺央视频道",CETV-1
 http://198.204.228.26/live/cetv1hd.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="﻿📺央视频道",CETV-2
 http://112.89.45.21:80/PLTV/88888973/224/3221226588/10000100000000060000000001558064_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8,0,2647,0,0&accountinfo=26iThfOUESj7KWSP%2BCf6P2%2FtQdrks7k%2BU%2FtzcxyJZWgMEnLaDYqry%2BJuUyT8Fc8374nOB3IQrxveVZVXxv9e5rsU6KazgFvxqBhk4q2PxHvyeajLnsVEKjVqdEYhmZl8%2CEND&GuardEncType=2&tenantId=8601
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="﻿📺央视频道",CETV-2
+http://223.8.181.85:8066/rtp/239.1.1.66:8066
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="﻿📺央视频道",CETV-4
 http://120.87.19.109:80/PLTV/88888973/224/3221226638/10000100000000060000000001977379_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xnB0x7qH8oMgPwgp9Rx5I3gWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="﻿📺央视频道",CETV-4
@@ -359,10 +363,12 @@ http://112.89.45.23:80/PLTV/88888973/224/3221226638/1000010000000006000000000197
 http://112.89.45.21:80/PLTV/88888973/224/3221226583/10000100000000060000000001558067_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8,0,2647,0,0&accountinfo=26iThfOUESj7KWSP%2BCf6P2%2FtQdrks7k%2BU%2FtzcxyJZWgMEnLaDYqry%2BJuUyT8Fc83o1UWaEIthg%2BwHrGxoj4pgLsU6KazgFvxqBhk4q2PxHvyeajLnsVEKjVqdEYhmZl8%2CEND&GuardEncType=2&tenantId=8601
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="﻿📺央视频道",CETV-4
 http://113.77.25.80:8188/rtp/239.253.43.114:5146
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="﻿📺央视频道",CETV-4
+http://223.8.181.85:8066/rtp/239.1.1.67:8067
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://223.10.164.217:8459/rtp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
+http://223.8.181.85:8066/rtp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://111.226.211.94:8188/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
@@ -372,7 +378,7 @@ http://116.77.33.98:44330/tsfile/live/faacts/1011_1.m3u8?key=txiptv&amp;playlive
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
-http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+http://115.217.45.93:8488/rtp/233.50.202.35:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
@@ -381,6 +387,10 @@ http://223.10.164.217:8459/rtp/239.1.1.127:8127
 http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+http://223.8.181.85:8066/rtp/239.1.1.127:8127
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+http://115.217.45.93:8488/rtp/233.50.202.36:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
