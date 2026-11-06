@@ -660,6 +660,8 @@ http://120.87.19.109:80/PLTV/88888973/224/3221225698/100001000000000600000000003
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
 http://120.87.4.18:80/PLTV/88888973/224/3221225698/10000100000000060000000000334056_0.smil/01.m3u8?fmt=ts2hls,163,01.m3u8,0,2425,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmdYA2a5ZZi3XMbYiTGIMyy:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
+http://A/ku9/js/btime.js?id=55skfjq618b9kcq9tfjr5qllb7r
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
 http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
 http://111.196.130.73:8012/rtp/239.3.1.189:8000
@@ -734,6 +736,8 @@ http://112.89.121.24:80/PLTV/88888973/224/3221225700/100001000000000600000000003
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://tb.zbds.top/logo/炫动卡通.png" group-title="🪁动画频道",炫动卡通
 http://106.53.99.30/tv/gdcucc.php?id=86
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://tb.zbds.top/logo/北京新闻.png" group-title="☘️北京频道",北京新闻
+http://A/ku9/js/btime.js?id=53gpt1ephlp86eor6ahtkg5b2hf
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://tb.zbds.top/logo/北京新闻.png" group-title="☘️北京频道",北京新闻
 http://111.196.130.73:8012/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://tb.zbds.top/logo/北京新闻.png" group-title="☘️北京频道",北京新闻
 http://114.246.100.246:8012/rtp/239.3.1.159:8000
@@ -742,6 +746,8 @@ http://114.254.168.123:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://tb.zbds.top/logo/北京新闻.png" group-title="☘️北京频道",北京新闻
 http://111.193.224.202:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://tb.zbds.top/logo/北京生活.png" group-title="☘️北京频道",北京生活
+http://A/ku9/js/btime.js?id=50j015rjrei9vmp3h8upblr41jf
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://tb.zbds.top/logo/北京生活.png" group-title="☘️北京频道",北京生活
 http://111.196.130.73:8012/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://tb.zbds.top/logo/北京生活.png" group-title="☘️北京频道",北京生活
 http://114.246.100.246:8012/rtp/239.3.1.117:8000
@@ -749,6 +755,8 @@ http://114.246.100.246:8012/rtp/239.3.1.117:8000
 http://114.254.168.123:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://tb.zbds.top/logo/北京生活.png" group-title="☘️北京频道",北京生活
 http://111.193.224.202:4022/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://tb.zbds.top/logo/北京影视.png" group-title="☘️北京频道",北京影视
+http://A/ku9/js/btime.js?id=50mqo8t4n4e8gtarqr3orj9l93v
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://tb.zbds.top/logo/北京影视.png" group-title="☘️北京频道",北京影视
 http://111.196.130.73:8012/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://tb.zbds.top/logo/北京影视.png" group-title="☘️北京频道",北京影视
@@ -760,11 +768,15 @@ http://111.193.224.202:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://tb.zbds.top/logo/北京文艺.png" group-title="☘️北京频道",北京文艺
 http://111.196.130.73:8012/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://tb.zbds.top/logo/北京文艺.png" group-title="☘️北京频道",北京文艺
+http://A/ku9/js/btime.js?id=54db6gi5vfj8r8q1e6r89imd64s
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://tb.zbds.top/logo/北京文艺.png" group-title="☘️北京频道",北京文艺
 http://114.246.100.246:8012/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://tb.zbds.top/logo/北京文艺.png" group-title="☘️北京频道",北京文艺
 http://114.254.168.123:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://tb.zbds.top/logo/北京文艺.png" group-title="☘️北京频道",北京文艺
 http://111.193.224.202:4022/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://tb.zbds.top/logo/北京体育休闲.png" group-title="☘️北京频道",北京体育休闲
+http://A/ku9/js/btime.js?id=54hv0f3pq079d4oiil2k12dkvsc
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://tb.zbds.top/logo/北京体育休闲.png" group-title="☘️北京频道",北京体育休闲
 http://111.196.130.73:8012/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://tb.zbds.top/logo/北京体育休闲.png" group-title="☘️北京频道",北京体育休闲
@@ -774,6 +786,8 @@ http://114.254.168.123:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://tb.zbds.top/logo/北京体育休闲.png" group-title="☘️北京频道",北京体育休闲
 http://111.193.224.202:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://tb.zbds.top/logo/北京纪实科教.png" group-title="☘️北京频道",北京纪实科教
+http://A/ku9/js/btime.js?id=53bn9rlalq08lmb8nf8iadoph0b
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://tb.zbds.top/logo/北京纪实科教.png" group-title="☘️北京频道",北京纪实科教
 http://111.196.130.73:8012/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://tb.zbds.top/logo/北京纪实科教.png" group-title="☘️北京频道",北京纪实科教
 http://114.246.100.246:8012/rtp/239.3.1.115:8000
@@ -781,6 +795,8 @@ http://114.246.100.246:8012/rtp/239.3.1.115:8000
 http://114.254.168.123:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://tb.zbds.top/logo/北京纪实科教.png" group-title="☘️北京频道",北京纪实科教
 http://111.193.224.202:4022/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://tb.zbds.top/logo/北京财经.png" group-title="☘️北京频道",北京财经
+http://A/ku9/js/btime.js?id=50e335k9dq488lb7jo44olp71f5
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://tb.zbds.top/logo/北京财经.png" group-title="☘️北京频道",北京财经
 http://111.196.130.73:8012/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://tb.zbds.top/logo/北京财经.png" group-title="☘️北京频道",北京财经
@@ -906,7 +922,9 @@ http://207.56.13.146:81/cdnlive/bjws.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://tb.zbds.top/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://222.134.245.16:9901/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://tb.zbds.top/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://59.39.89.130:60901/tsfile/live/0125_7.m3u8?key=txiptv&playlive=1&authid=0
+http://A/ku9/js/btime.js?id=573ib1kp5nk92irinpumbo9krlb
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://tb.zbds.top/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://A/ku9/js/btime.js?id=5755n511tbk8flo40l4c71l0sdf
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://tb.zbds.top/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://112.89.45.23:80/PLTV/88888973/224/3221225714/10000100000000060000000000334648_0.smil/01.m3u8?fmt=ts2hls,744,01.m3u8,0,8595,0,0&accountinfo=7P9/PZjGeZIv+PttGdhw9SUy2v3weVxkOFl4CStfwsm3BmTwjyEukLKuM5iU1lseZOl3X4RY4WIHiS4PKghKrAWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj:20250930113909,END&GuardEncType=2&tenantId=8601
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://tb.zbds.top/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
