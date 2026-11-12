@@ -383,8 +383,8 @@ http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&amp;playlive=1&amp;
 http://115.217.45.93:8488/rtp/233.50.202.35:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://tb.zbds.top/logo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="🌊港·澳·台" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
-http://A/ku9/js/fhshow.js?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+http://A/PLTV/ku9/js/fhshow.js?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
@@ -395,8 +395,8 @@ http://218.206.193.218:8888/hls/66/index.m3u8
 http://115.217.45.93:8488/rtp/233.50.202.36:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://tb.zbds.top/logo/凤凰香港.png" group-title="🌊港·澳·台" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰香港
-http://A/ku9/js/fhshow.js?id=fhhk
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://tb.zbds.top/logo/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
+http://A/PLTV/ku9/js/fhshow.js?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://tb.zbds.top/logo/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 http://173.208.234.146/live/fhxg.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://tb.zbds.top/logo/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
